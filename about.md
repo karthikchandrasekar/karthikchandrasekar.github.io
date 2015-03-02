@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact us
+permalink: /contactus/
 ---
 
-Some information about you!
+### If you are an entrepreneur:
+You can reach us at: [prospect@sangam.vc](mailto:prospect@sangam.vc)
 
-### More Information
+You can also drop by and say hello, we are based out of
+### The Collab
+1st floor, D-66,
+60 feet road,
+Chattarpur,
+New Delhi,
+India - 110074
 
-A place to include any other types of information that you'd like to include about yourself.
+### All others please send emails to
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[admin@sangam.vc](mailto:admin@sangam.vc)

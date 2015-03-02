@@ -18,15 +18,15 @@ avatar: /images/Sangam_Master_Logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: prospect@sangam.vc
   facebook:
   flickr:
   github: karthikchandrasekar
   instagram:
-  linkedin:
+  linkedin: sangam-ventures
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: sangamvc
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
