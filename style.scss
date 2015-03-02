@@ -271,11 +271,66 @@ nav {
   }
 }
 
+.team {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
+}
+
+.portfolio {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.portfolio-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.portfolio-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.portfolio-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.portfolio-member p {
+    margin-top: 0;
+    text-align: left;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+.img-circle {
+  border-radius:50%;
 }
 
 footer {
