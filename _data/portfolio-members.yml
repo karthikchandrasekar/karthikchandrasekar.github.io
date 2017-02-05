@@ -1,22 +1,13 @@
-- name: Promethean Power Systems
-  image: pps.jpg
-  url: http://www.coolectrica.com
-  about: Promethean has developed a unique refrigeration solution using thermal battery to address cold storage requirements in emerging markets with poor and intermittent access to energy
+- name: Inficold, Inc.
+  image: inficold.png
+  url: http://www.inficold.com
+  about: Inficold has developed the world's first plug & play thermal storage solution for refrigeration and air conditioning
   linkedin:
-  twitter:
-  github:
+  twitter: Inficold_Inc
 
-- name: Excellent Renewables
-  image: er.jpg
-  url: http://www.excellentrenewable.com
-  about: Excellent Renewable is an engineering solutions company focused on identifying, prospecting and promoting biogas technologies to meet the growing demand for energy in India and reducing carbon footprint
-  linkedin:
-  twitter:
-
-- name: AnthroPower Training
-  image: ap.jpg
-  url: http://www.anthropower.in
-  about: AnthroPower addresses the lack of sufficient skill development in the renewable energy market through improved quality and lower cost skill training
-  linkedin:
-  twitter:
-  facebook: anthropower
+- name: Promethean Energy
+  image: promethean.png
+  url: http://www.prometheanenergy.in
+  about: Promethean Energy specializes in industrial energy efficiency solutions - their first product is a low grade waste heat recovery solution for chillers and compressors
+  linkedin: https://www.linkedin.com/company/promethean-energy-pvt.-ltd.
+  twitter: 
