@@ -1,13 +1,13 @@
 - name: Inficold, Inc.
-  image: inficold.png
+  image: infi.png
   url: http://www.inficold.com
   about: Inficold has developed the world's first plug & play thermal storage solution for refrigeration and air conditioning
   linkedin:
   twitter: Inficold_Inc
 
 - name: Promethean Energy
-  image: promethean.png
+  image: prom.png
   url: http://www.prometheanenergy.in
   about: Promethean Energy specializes in industrial energy efficiency solutions - their first product is a low grade waste heat recovery solution for chillers and compressors
   linkedin: https://www.linkedin.com/company/promethean-energy-pvt.-ltd.
-  twitter: 
+  twitter:
